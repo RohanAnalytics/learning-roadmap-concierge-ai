@@ -218,7 +218,7 @@ python run.py
 
 # 👨‍💻 Author
 
-**Rohan Rawat**
+**Rohan Singh Rawat**
 
 Data Analyst | AI Enthusiast | Power BI Developer
 
