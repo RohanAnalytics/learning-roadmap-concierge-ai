@@ -226,7 +226,7 @@ Data Analyst | AI Enthusiast | Power BI Developer
 https://github.com/RohanAnalytics
 
 **LinkedIn:**  
-(Add your LinkedIn Profile URL)
+https://www.linkedin.com/in/rohansinghrawat7/
 
 ---
 
